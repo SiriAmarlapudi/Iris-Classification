@@ -1,8 +1,8 @@
 # Iris Flower Classification Project using Machine Learning
 The aim of the iris flower classification is to predict flowers based on their specific features.
 # Dataset
-1.The iris dataset contains three classes of flowers, Versicolor, Setosa, Virginica, and each class contains 4 features, ‘Sepal length’, ‘Sepal width’, ‘Petal length’, ‘Petal width’.
-2.The dataset contains 150 samples with 3 classes of iris flowers (50 samples for each class).
+-The iris dataset contains three classes of flowers, Versicolor, Setosa, Virginica, and each class contains 4 features, ‘Sepal length’, ‘Sepal width’, ‘Petal length’, ‘Petal width’.
+-The dataset contains 150 samples with 3 classes of iris flowers (50 samples for each class).
 
 # Prerequisites:
 1. Numpy- 1.19.3
