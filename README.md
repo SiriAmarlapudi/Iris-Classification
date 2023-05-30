@@ -18,10 +18,11 @@ The dataset contains 150 samples with 3 classes of iris flowers (50 samples for 
 5. Testing the model.
 
 # Usage
--1.Download iris.csv and save it in the project directory.
--2.Run the Iris flower classification.ipynb file, which contains the code for data preprocessing, model training, and evaluation.
--3.The script will load the dataset, preprocess the data, split it into training and testing sets, train a linear regression model, and evaluate its performance.
--4.After the model training is completed, it will predict flowers based on their specific features.
+1. Download iris.csv and save it in the project directory.
+2. Run the Iris flower classification.ipynb file, which contains the code for data preprocessing, model training, and evaluation.
+3. The script will load the dataset, preprocess the data, split it into training and testing sets, train a linear regression model, and evaluate its performance.
+4. After the model training is completed, it will predict flowers based on their specific features.
+
 # Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 # Contact
