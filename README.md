@@ -11,11 +11,12 @@ The dataset contains 150 samples with 3 classes of iris flowers (50 samples for 
 5. Scikit-learn – 0.24.2
 
 # Steps to Classify Iris Flower:
--1. Load the data
--2. Analyze and visualize the dataset
--3. Model training.
--4. Model Evaluation.
--5. Testing the model.
+1. Load the data
+2. Analyze and visualize the dataset
+3. Model training.
+4. Model Evaluation.
+5. Testing the model.
+
 # Usage
 -1.Download iris.csv and save it in the project directory.
 -2.Run the Iris flower classification.ipynb file, which contains the code for data preprocessing, model training, and evaluation.
